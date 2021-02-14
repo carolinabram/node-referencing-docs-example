@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "population.js",
+  "dependencies": {
+    "mongoose": "^5.11.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinabram/node-referencing-docs-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolinabram/node-referencing-docs-example/issues"
+  },
+  "homepage": "https://github.com/carolinabram/node-referencing-docs-example#readme"
+}
